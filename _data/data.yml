@@ -7,45 +7,45 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Habin Prasad
+    tagline: Software Test Engineer Automation
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: habinprasad@gmail.com
+    phone: +91 79071 97069
+    citizenship: IN
+    website: blog.conscioustester.co.in #do not add http://
+    linkedin: habin-prasad-aa253b84
+    #xing: alandoe
+    github: habin-prasad
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Malayalam
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Bike Riding
         link:
 
-      - item: Snowboarding
+      - item: Visiting places
         link:
 
-      - item: Cooking
+      - item: Web Series
         link:
 
 career-profile:
@@ -58,9 +58,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Computer Science
+      university: Cochin University of Science and Technology(CUSAT)
+      time: 2010 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,17 +69,17 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#     - degree: BSc in Applied Mathematics
+#       university: Bristol University
+#       time: 2007 - 2011
+#       details: |
+#         Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#         sociis natoque penatibus et magnis dis parturient montes, nascetur
+#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#         pretium quis, sem.
+#           - Bullet point
+#           - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
